@@ -5,8 +5,8 @@
     <version>@build.number@</version>
     <authors>@authors@</authors>
     <owners>@authors@</owners>
-    <licenseUrl>http://github.com/fsprojects/testthingy/blob/master/LICENSE.txt</licenseUrl>
-    <projectUrl>http://fsprojects.github.com/testthingy</projectUrl>
+    <licenseUrl>http://github.com/lefthandedgoat/testthingy/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>http://lefthandedgoat.github.com/testthingy</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/fsprojects/ProjectScaffold/master/docs/files/img/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <summary>@summary@</summary>
